@@ -1,0 +1,1 @@
+Escreve um procedimento que receba a altura e a largura de um retângulo e calcule o seu perímetro. Chama esse procedimento no método main para calcular o perímetro de um retângulo com altura de 5 e largura de 8.
