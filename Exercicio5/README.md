@@ -1,0 +1,1 @@
+Cria uma função que converta uma temperatura em graus Celsius para Fahrenheit. A fórmula de conversão é: Fahrenheit = (Celsius * 9/5) + 32. No método main, converte uma temperatura de 25 graus Celsius e mostra o resultado.
