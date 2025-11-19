@@ -1,0 +1,1 @@
+Escreva um programa Java para criar uma classe chamada “Book” com variáveis de instância privadas title, author e price. Forneça métodos getter e setter públicos para acessar e modificar essas variáveis. Adicione um método chamado applyDiscount ( ) que recebe uma porcentagem como parâmetro e reduz o preço por essa porcentagem.
