@@ -1,0 +1,1 @@
+Escreva um programa Java para criar uma classe chamada Circle com uma variável de instância privada radius. Forneça métodos getter e setter públicos para acessar e modificar a variável radius. No entanto, forneça dois métodos chamados calculateArea ( ) e calculatePerimeter () que retornam a área e o perímetro calculados com base no valor de radius atual.
