@@ -1,0 +1,1 @@
+Escreva um programa Java para criar uma interface Searchable com um método search(String keyword) que procure uma determinada palavra-chave num documento de texto. Crie duas classes Document e WebPage que implementem a interface Searchable e forneçam as suas próprias implementações do método search().
