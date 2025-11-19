@@ -1,0 +1,1 @@
+Cria uma função que calcule o tempo necessário para percorrer uma determinada distância a uma certa velocidade. A fórmula é tempo = distância / velocidade. No método main, calcula o tempo de uma viagem de 300 km a uma velocidade de 80 km/h.
