@@ -1,0 +1,1 @@
+Escreva um programa Java para criar uma interface Music_station com um método play() que não recebe argumentos e retorna void. Crie duas classes fast music e classic music que implementam a interface Playable e substituem o método play() para reproduzir os respetivos tipos de música.
