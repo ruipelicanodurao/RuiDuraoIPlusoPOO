@@ -1,1 +1,0 @@
-Escreva um programa Java para criar uma interface Sortable com um método sort (int[] array) que ordena uma matriz de inteiros em ordem decrescente. Crie duas classes bubble sort e MergeSort que implementam a interface Sortable e fornecem as suas próprias implementações do método sort().
