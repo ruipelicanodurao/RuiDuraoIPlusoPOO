@@ -1,1 +1,0 @@
-Escreva uma classe que implemente a interface CharSequence encontrada no pacote java.lang. A sua implementação deve retornar a string ao contrário. Selecione uma das frases deste livro para usar como dados. Escreva um pequeno método principal para testar a sua classe; certifique-se de chamar todos os quatro métodos.
