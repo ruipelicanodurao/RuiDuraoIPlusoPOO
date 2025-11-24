@@ -1,1 +1,0 @@
-Escreva um programa Java para criar uma interface Drawable com um método draw() que não receba argumentos e retorne void. Crie três classes Circle, Rectangle e Triangle que implementem a interface Drawable e substituam o método draw() para desenhar as suas respectivas formas.
