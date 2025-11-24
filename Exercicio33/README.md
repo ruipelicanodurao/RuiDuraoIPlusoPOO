@@ -1,1 +1,0 @@
-Escreva um programa Java para criar uma classe chamada BankAccount com variáveis de instância privadas accountNumber e balance. Forneça métodos getter e setter públicos para acessar e modificar essas variáveis.
