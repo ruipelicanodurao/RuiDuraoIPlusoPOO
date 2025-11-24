@@ -1,1 +1,0 @@
-Escreva um programa Java para criar uma classe chamada Product com variáveis de instância privadas productName , productCode e price. Forneça métodos getter e setter públicos para acessar e modificar essas variáveis. Adicione um método chamado applyDiscount ( ) que pega uma porcentagem e reduz o preço por essa porcentagem.
