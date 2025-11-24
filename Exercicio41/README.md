@@ -1,1 +1,0 @@
-Suponha que você tenha escrito um servidor de tempo que notifica periodicamente os seus clientes sobre a data e hora atuais. Escreva uma interface que o servidor poderia usar para aplicar um protocolo específico aos seus clientes.
